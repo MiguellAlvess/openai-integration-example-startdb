@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>br.com.db</groupId>
-    <artifactId>openai-integration</artifactId>
+    <artifactId>openai_integration</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>openai-integration</name>
     <description>Projeto exemplo de integração com OpenAI</description>
