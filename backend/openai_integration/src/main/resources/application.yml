@@ -1,0 +1,12 @@
+server:
+  port: ${PORT:8080}
+  error:
+    include-message: always
+
+spring:
+  ai:
+  openai:
+    api-key: ${OPENAI_API_KEY}
+    chat:
+      options:
+        model: gpt-4o-mini
