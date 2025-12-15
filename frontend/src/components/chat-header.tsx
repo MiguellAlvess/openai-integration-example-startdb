@@ -1,0 +1,15 @@
+const ChatHeader = () => {
+  return (
+    <div className="border-b border-border bg-card p-6">
+      <div className="flex items-center gap-3">
+        <div>
+          <h1 className="text-2xl font-bold text-foreground">
+            Assistente Virtual
+          </h1>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+export default ChatHeader
