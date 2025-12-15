@@ -1,4 +1,4 @@
-const ChatHeader = () => {
+const Header = () => {
   return (
     <div className="border-b border-border bg-card p-6">
       <div className="flex items-center gap-3">
@@ -12,4 +12,4 @@ const ChatHeader = () => {
   )
 }
 
-export default ChatHeader
+export default Header
