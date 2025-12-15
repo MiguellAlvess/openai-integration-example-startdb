@@ -14,7 +14,7 @@ const VirtualAssistantPage = () => {
   }
 
   return (
-    <div className="flex h-full flex-col bg-background">
+    <div className="flex min-h-screen flex-col bg-background">
       <Header />
       <div className="flex-1 space-y-3 overflow-y-auto px-4 py-4">
         {messages.map((message, index) => {
@@ -38,8 +38,9 @@ const VirtualAssistantPage = () => {
           )
         })}
       </div>
-
-      <AskInput onNewMessage={handleNewMessage} />
+      <div className="mt-auto">
+        <AskInput onNewMessage={handleNewMessage} />
+      </div>
     </div>
   )
 }
