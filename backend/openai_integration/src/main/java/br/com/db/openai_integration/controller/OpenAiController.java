@@ -15,7 +15,7 @@ import jakarta.servlet.http.HttpSession;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@RequestMapping("/api/virtual-assistant")
+@RequestMapping("/api/openai")
 @RequiredArgsConstructor
 public class OpenAiController {
 
