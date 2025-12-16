@@ -48,7 +48,7 @@ const AskInput = ({ onNewMessage }: ChatInputProps) => {
                 <FormControl>
                   <Input
                     {...field}
-                    placeholder="Faça uma pergunta sobre sustentabilidade e reciclagem..."
+                    placeholder="Faça uma pergunta sobre arquitetura de software..."
                     className="h-12 w-full px-4 text-base"
                   />
                 </FormControl>
