@@ -3,10 +3,10 @@ import { Sparkles } from 'lucide-react'
 import { Button } from './ui/button'
 
 const SUGGESTIONS = [
-  'Como posso reduzir meu consumo de plástico?',
-  'Quais são as melhores práticas de reciclagem?',
-  'Como fazer compras sustentáveis?',
-  'Quais sao os beneficios da reciclagem?',
+  'O que é arquitetura de software?',
+  'Qual as vantages da Clean Architecture?',
+  'Quais são os princípios SOLID?',
+  'Quando usar microserviços?',
 ]
 
 interface SugestionsButtonsProps {
