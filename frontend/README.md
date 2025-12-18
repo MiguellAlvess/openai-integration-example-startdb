@@ -15,7 +15,7 @@ Frontend de um projeto para demonstração de integração de uma API Spring Boo
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter instalado:
+Antes de começar, certifique-se de ter instalado na sua máquina:
 
 - **Node.js 18+** (recomendado: Node.js 20 ou superior)
 - **npm** ou **yarn** (geralmente vem com o Node.js)
