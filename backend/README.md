@@ -16,7 +16,7 @@ Backend de um projeto para demonstração de integração de uma API Spring Boot
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter instalado:
+Antes de começar, certifique-se de ter instalado na sua máquina:
 
 - **Java 21** ou superior
 - **Maven 3.6+** (ou use o Maven Wrapper incluído no projeto)
